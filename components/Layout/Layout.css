@@ -1,0 +1,15 @@
+body,
+div,
+h1,
+h2,
+h3,
+h4,
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+}

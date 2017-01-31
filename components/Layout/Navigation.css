@@ -1,0 +1,21 @@
+@media screen and (max-width: 1024px) {
+  .navContainer {
+    display: none !important;
+  }
+}
+
+.contact {
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  border: 2px solid red;
+  width: 6rem;
+  height: 3rem;
+  line-height: 3rem !important;
+  text-align: center !important;
+}
+
+.navContainer a {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}

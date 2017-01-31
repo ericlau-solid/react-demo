@@ -1,0 +1,10 @@
+@media screen and (max-width: 1024px) {
+  .content {
+    padding: 0 16px;
+  }
+}
+
+.image {
+  max-height: 100%;
+  max-width: 100%;
+}

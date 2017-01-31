@@ -1,0 +1,30 @@
+@media screen and (max-width: 1024px) {
+  .content {
+    padding: 0 16px;
+  }
+}
+
+.callToAction {
+  margin-top: 80px;
+}
+
+.downloadApp {
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border: 2px solid red;
+  padding: 1rem;
+  width: 10rem;
+  height: 5rem;
+  line-height: 3rem !important;
+  text-align: center !important;
+  text-transform: uppercase;
+  color: white;
+  background-color: red;
+  text-decoration: none !important;
+}
+
+.image {
+  max-height: 100%;
+  max-width: 100%;
+}
