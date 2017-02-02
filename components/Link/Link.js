@@ -7,7 +7,7 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE.txt file in the root directory of this source tree.
  */
-/* global window  */
+
 /* eslint
  jsx-a11y/anchor-has-content: 0
  */

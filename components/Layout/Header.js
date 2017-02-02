@@ -7,7 +7,7 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE.txt file in the root directory of this source tree.
  */
-/* global window  */
+
 import React, { PropTypes } from 'react';
 import { connect } from 'react-redux';
 import Navigation from './Navigation';

@@ -8,7 +8,7 @@
  * LICENSE.txt file in the root directory of this source tree.
  */
 /* eslint no-underscore-dangle: 0 */
-/* global window  */
+
 import { createStore } from 'redux';
 import root from './reducers';
 
